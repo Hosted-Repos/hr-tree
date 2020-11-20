@@ -1,6 +1,6 @@
 {
   "name": "hr-tree",
-  "version": "1.0.1-beta",
+  "version": "1.0.2-beta",
   "description": "List, Treefy and Untreefy Directories.",
   "main": "index.js",
   "scripts": {
@@ -15,6 +15,10 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Hosted-Repos/node-tree.git"
+  },
+  "dependencies": {
+    "uuid": "^3.3.0",
+    "node" : "^8.0.0"
   },
   "author": "hosted-repos",
   "license": "MIT",
