@@ -1,16 +1,22 @@
 {
-  "name": "node-tree",
-  "version": "1.0.0-beta1",
+  "name": "hr-tree",
+  "version": "1.0.1-beta",
   "description": "List, Treefy and Untreefy Directories.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [
+    "treefy",
+    "untreefy",
+    "listing",
+    "directories"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Hosted-Repos/node-tree.git"
   },
-  "author": "Hosted-Repos",
+  "author": "hosted-repos",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Hosted-Repos/node-tree/issues"
