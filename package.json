@@ -1,6 +1,6 @@
 {
   "name": "hr-tree",
-  "version": "1.0.3-beta",
+  "version": "1.0.5",
   "description": "List, Treefy and Untreefy Directories.",
   "main": "index.js",
   "scripts": {
