@@ -1,6 +1,6 @@
-//Invalid Arguments Error Function    (bcz --D.R.Y.)
+//Invalid Arguments Error Function
 module.exports = {
     InvalidArgumentsError : function() {
-    console.log("Invalid arguments. Refer 'node index help'");
+        console.log("Invalid arguments. Refer help or documentation.");
     }
 }
