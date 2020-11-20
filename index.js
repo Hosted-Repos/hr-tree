@@ -25,4 +25,4 @@ function NodeTree(name,src,dest)
     }
 }
 
-modules.export = NodeTree
+module.exports = NodeTree
